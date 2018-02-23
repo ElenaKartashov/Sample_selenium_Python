@@ -1,0 +1,145 @@
+
+
+Migration from QTP to
+Selenium/ Python
+
+1.1 Technology solution stack recommendation for CMP project
+regression testing and new functionality.
+
+
+ 
+  
+  Technology
+  
+  
+  Covers
+  
+ 
+ 
+  
+  Python 2.7.14
+  Python 3.6.4
+  
+  
+  Scripting language
+  https://www.python.org
+   
+  
+ 
+ 
+  
+  IntelliJ IDEA + Python Plugin
+   
+  
+  
+  IDE environment 
+  https://plugins.jetbrains.com/plugin/631-python
+   
+   
+  
+ 
+ 
+  
+  Selenium libraries
+  Selenium Web Driver
+  Google Chrome Driver 2.33
+  Mozilla GeckoDriver 0.19.0
+  Safari Driver
+  Internet Explorer Driver Server 3.8.0
+  Selenium Standalone Server 3.1.8
+   
+  
+  
+  Cross browser testing
+   
+  https://www.seleniumhq.org/projects/webdriver/
+   
+  
+ 
+ 
+  
+  Selenium 3.9.0 for Python
+  
+  
+  Selenium Client & WebDriver Language
+  Bindings
+  https://pypi.python.org/pypi/selenium
+  
+ 
+ 
+  
+  Pytest, unittest 
+  
+  
+  Test structure libraries
+  https://docs.pytest.org/en/latest
+  https://docs.python.org/2/library/unittest.html#
+  
+ 
+ 
+  
+  HTMLTestRunner 0.8.0
+  
+  
+   Run
+  the tests
+  http://tungwaiyip.info/software/HTMLTestRunner.html
+  
+ 
+ 
+  
+  Panda 0.22.0 ( Excel file reader)
+  
+  
+  Interaction with a test data
+  https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_excel.html
+  
+ 
+ 
+  
+  pytest-allure-adaptor
+  1.7.10
+  
+  
+  Post execution report
+  https://pypi.python.org/pypi/pytest-allure-adaptor
+  
+ 
+ 
+  
+  GitHub repository
+  
+  
+   Version Controlling Tool
+  https://github.com/
+  
+ 
+ 
+  
+  Jenkins 
+  
+  
+  Continuous integration
+  https://jenkins.io/
+  
+ 
+ 
+  
+  Report portal
+  
+  
+  Full-featured result
+  management tool
+  http://reportportal.io/
+  
+ 
+ 
+  
+   
+  
+  
+   
+  
+ 
+
+
